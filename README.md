@@ -14,8 +14,8 @@
   * ❄️ B2B SaaS, Production ML Systems, LLM Reasoning.
   * 🙃 I yap quite freely.
 * 📨 How to reach me -
-  * 👥Where I'm most (although silently) active: https://x.com/Diksha1713
-  * 🤸‍♀️For resume stuff: https://www.linkedin.com/in/diksha-shrivastava13/
+  * 👥 Where I'm most (although silently) active: https://x.com/Diksha1713
+  * 🤸‍♀️ For resume stuff: https://www.linkedin.com/in/diksha-shrivastava13/
   * ✉️ Email: diksharaigarh57@gmail.com
 * 🧚‍♀️ Fun facts -
   * 💭 I've been found reading some research paper in the corner way too often in college (my current favourites are [LeanAgent](https://arxiv.org/abs/2410.06209#) and [Pantograph](https://arxiv.org/abs/2410.16429v1) on lifelong learning, theorem proving and high-level reasoning!) 
