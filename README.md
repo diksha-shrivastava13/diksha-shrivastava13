@@ -22,8 +22,8 @@
   * ❤️ I almost certainly end up being the Tinkerbell of the teams I join. I love to research, and this side-obsession is what inadvertently brings the awesome factor to the products I've delivered. Love research, research is a must!
   * 🙌 Too many people have too many stories of me falling down when I was busy laughing over nothing. This is an indication of stress.
 * 🦁 Latest news -
-  * ***[Sept 2024]*** Handed over a LLM-based Decision-Making product for the **German Federal Ministry, BMZ** with complex reasoning pipelines for data analysis, risk assessment, similarity analysis, KPIs tracking, recommendations etc.
+  * ***[Sept 2024]*** Handed over a LLM-based **Decision-Making product** for the **German Federal Ministry, BMZ** with complex reasoning pipelines for data analysis, risk assessment, similarity analysis, KPIs tracking, recommendations etc.
   * ***[Aug 2024]*** Presented my product to the **Data Lab at BMZ Ministry, Germany** to deliver the state-of-the-art methods on reasoning and analysis in language models.
   * ***[Jun 2024]*** Got invited to an invite-only **Summer BBQ with UVC Partners** to meet VCs, Angel Investors and Start-Ups.
-  * ***[May 2024]*** Handed over a Search product for internal technical documentation and communication to **SAP**, which is to be distributed worldwide as a SAP product for developers to reduce their debugging times from hours to a minute.
+  * ***[May 2024]*** Handed over a **Search product** for internal technical documentation and communication to **SAP**, which is to be distributed worldwide as a SAP product for developers to reduce their debugging times from hours to a minute.
   * ***[Apr 2024]*** Presented my product to **Angel Investors** and **VCs** at **Meta, IBM, UnternehmerTUM, MTZ, AWS, United Internet Media GmBH** to receive tremendous appreciation and feedback, with offers for funding if turned to a white-label product.
