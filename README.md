@@ -1,5 +1,9 @@
 # Diksha Shrivastava
 
-[View My Work](https://diksha-shrivastava13.github.io/)
+AI Safety Researcher based out of India, broadly interested in Scalable Oversight, Natural Abstractions and Scientist AI. My answer to Hamming’s Question is designing truth-seeking agents which discover the causal abstractions in an open-ended world in an external, interpretable and intervenable way. 
 
-I’m an AI Research Engineer exploring the intersection of AI, reasoning, and scientific discovery. For the past year, I’ve been working on bridging language models’ internal representations with structured models of complex worlds, enabling them to uncover deep causal relationships and fundamental rules governing vast systems—critical for AI-driven scientific discovery. My research interests include AI for Scientific Discovery, Continual Learning in Complex World Models, Decision-Making in Language Models, and Language Model Reasoning.
+I’m currently working on [causally modeling composition of goals in open-ended environments](https://github.com/diksha-shrivastava13/goal-composition), delving in shard theory, open-endedness, and causal incentives. I also try to support the development of an AI Safety ecosystem in India. I’ve previously shipped two products, completed some fellowships, recently graduated, and attended FAEB — the Finnish iteration of ARENA. These days, I spend most of my time thinking about the threat models arising from Open-Endedness and red-teaming research agendas to work with Scalable Oversight.
+
+Website: [diksha-shrivastava13.github.io](https://diksha-shrivastava13.github.io/)
+
+Note: I’m not active on social media — the best way to reach me is by [email](mailto:diksharaigarh57@gmail.com).
