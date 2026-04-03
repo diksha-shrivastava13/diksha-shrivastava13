@@ -1,9 +1,7 @@
 # Diksha Shrivastava
 
-AI Safety Researcher based out of India, broadly interested in Scalable Oversight, Natural Abstractions and Scientist AI. My answer to Hamming’s Question is designing truth-seeking agents which discover the causal abstractions in an open-ended world in an external, interpretable and intervenable way. 
+Diksha is an AI Safety Researcher based in India, who has spent the last eight months working full-time on safety research at a capability-first lab and is now moving to independent work. Her research sits at the intersection of dynamic agency, multi-agent risks, developmental interpretability and scalable oversight — she’s building upon Causal Incentives research to study how co-evolving environments shape temporal goal structures in RL agents using regret-based Unsupervised Environment Design. She’s particularly interested in what it means for an agent to model its own training process, and what that implies for oversight. Alongside her research, she volunteers in reading groups and mentors people new to AI Safety. She’s always glad to talk about risks from open-endedness, agent epistemics, or alignment as an environment design problem.
 
-I’m currently working on [causally modeling composition of goals in open-ended environments](https://github.com/diksha-shrivastava13/goal-composition), delving in shard theory, open-endedness, and causal incentives. I also try to support the development of an AI Safety ecosystem in India. I’ve previously shipped two products, completed some fellowships, recently graduated, and attended FAEB — the Finnish iteration of ARENA. These days, I spend most of my time thinking about the threat models arising from Open-Endedness and red-teaming research agendas to work with Scalable Oversight.
-
-Website: [diksha-shrivastava13.github.io](https://diksha-shrivastava13.github.io/)
+[diksha-shrivastava13.github.io](https://diksha-shrivastava13.github.io/)
 
 Note: I’m not active on social media — the best way to reach me is by [email](mailto:diksharaigarh57@gmail.com).
